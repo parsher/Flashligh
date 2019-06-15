@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">플래시</string>
+    <string name="add_widget">앱 추가</string>
+    <string name="appwidget_text">손전등</string>
+</resources>
