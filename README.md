@@ -1,1 +1,1 @@
-# Flashligh
+# Flashlight
